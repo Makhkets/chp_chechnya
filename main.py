@@ -9,7 +9,7 @@ phone = "79280032246"
 
 channels = ['@chp_chechnyaa', "@chpcheechnya",
             "@chp_chechnya", "@chpchecchnya",
-            "@chp_checchnya"]
+            "@chp_checchnya", "@fdsf123fx"]
 
 my_channel = '@groznychp95'
 
