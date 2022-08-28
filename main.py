@@ -9,7 +9,9 @@ phone = "79280032246"
 
 channels = ['@chp_chechnyaa', "@chpcheechnya",
             "@chp_chechnya", "@chpchecchnya",
-            "@chp_checchnya", "@fdsf123fx"]
+            "@chp_checchnya", "@fdsf123fx", 
+            "@chpgrozny95", "@chpgrozny",
+            "@chpgroznyi"]
 
 my_channel = '@groznychp95'
 
@@ -18,7 +20,7 @@ KEYS = {
     "мск": 'Москва',
 }
 # ----
-Bad_Keys = ['биткоин', 'биток', 'ставки', 'казино', 'реклама']
+Bad_Keys = ['биткоин', 'биток', 'ставки', 'казино', 'реклама', '']
 # ----
 tags = ''
 
