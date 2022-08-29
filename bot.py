@@ -9,7 +9,7 @@ import json
 from time import sleep
 
 storage = MemoryStorage()
-bot = Bot(token="5022906736:AAEdtLYnF3sXv-dy-vt3ko2PiecF8YQhd3E", parse_mode='html')
+bot = Bot(token="502296: DELETED  3ko2PiQhd3E", parse_mode='html')
 dp = Dispatcher(bot, storage=storage)
 
 
