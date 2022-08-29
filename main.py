@@ -5,9 +5,9 @@ from telethon import TelegramClient, events, errors
 import asyncio
 import re
 
-api_id = 18486395
-api_hash = "c5fd76836a1904549ffb52a1a8c919e5"
-phone = "79280032246"
+api_id = None
+api_hash = "None"
+phone = "None"
 
 channels = ['@chp_chechnyaa', "@chpcheechnya",
             "@chp_chechnya", "@chpchecchnya",
